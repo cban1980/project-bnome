@@ -1,0 +1,17 @@
+{
+    "schemas": {
+      "org.gnome.desktop.interface": {
+        "text-scaling-factor": 1.5
+      },
+      "org.gnome.shell.extensions.dash-to-dock": {
+        "dock-position": "'BOTTOM'"
+      }
+    },
+    "nodes": [
+      "node1",
+      "node2",
+      "node3"
+    ],
+    "username": "your-ssh-username",
+    "password": "your-ssh-password"
+  }
