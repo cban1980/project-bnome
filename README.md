@@ -1,2 +1,2 @@
 # project-bnome
-Bnome code ftw.
+Bnome code ftw sus.
